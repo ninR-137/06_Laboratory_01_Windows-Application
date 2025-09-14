@@ -3,7 +3,7 @@
 
 
 # Sample Output:
-
+[image](https://i.postimg.cc/T2L9CnsD/Capture.png)
 
 
 # StudentNameSpace
